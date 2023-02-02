@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 ### project 1 ###
 import socket
 
@@ -27,10 +21,3 @@ def get_ip_port(table_name):
         
 table_name = "Email"
 get_ip_port(table_name)
-
-
-# In[ ]:
-
-
-
-
